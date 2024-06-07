@@ -1,4 +1,4 @@
-Repositório onde eu coloco meus estudos e tarefas que faço no curso Desenvolvimento Web Completo, criado por Jamilton Damasceno e publicado na Undemy.
+Repositório onde eu coloco meus estudos e tarefas que faço no curso Desenvolvimento Web Completo, criado por Jamilton Damasceno e publicado na Udemy.
 
 Link do curso: https://www.udemy.com/course/web-completo/
 
