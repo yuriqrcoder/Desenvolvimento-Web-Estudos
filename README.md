@@ -7,6 +7,8 @@ Link do curso: https://www.udemy.com/course/web-completo/
 
 Progresso:
 
-1 - HTML 5: Atualmente cursando
+1 - HTML 5: Concluído no dia 17/06/2024
 
-2 - ...
+2 - CSS 3: Atualmente cursando
+
+3 - ...
